@@ -1,5 +1,7 @@
 "use strict";
 
+// a sketch of http://hackaday.com/2016/12/15/character-generation-in-144-bytes/
+
 var table =
 " ***   * *      "+
 "        *** *   "+
